@@ -29,7 +29,7 @@ plt.plot(x, y_tanh, label='Tanh')
 plt.xlabel('x')
 plt.ylabel('Activation Function Output')
 plt.title('Modified Activation Functions')
-plt.legend()
+plt.legend()git branch 
 
 plt.grid(True)
 plt.show()
